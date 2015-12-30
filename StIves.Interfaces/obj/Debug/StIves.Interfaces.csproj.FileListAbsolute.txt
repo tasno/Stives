@@ -1,0 +1,14 @@
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIves.Interfaces\bin\Debug\StIves.Interfaces.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIves.Interfaces\bin\Debug\StIves.Interfaces.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIves.Interfaces\obj\Debug\StIves.Interfaces.csprojResolveAssemblyReference.cache
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIves.Interfaces\obj\Debug\StIves.Interfaces.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIves.Interfaces\obj\Debug\StIves.Interfaces.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIves.Interfaces\bin\Debug\Utils.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIves.Interfaces\bin\Debug\Utils.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIves.Interfaces\bin\Debug\StIves.Interfaces.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIves.Interfaces\bin\Debug\StIves.Interfaces.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIves.Interfaces\bin\Debug\Utils.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIves.Interfaces\bin\Debug\Utils.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIves.Interfaces\obj\Debug\StIves.Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\rmorrish\Source\Repos\StIves\StIves.Interfaces\obj\Debug\StIves.Interfaces.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIves.Interfaces\obj\Debug\StIves.Interfaces.pdb

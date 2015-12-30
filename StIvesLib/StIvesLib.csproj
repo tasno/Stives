@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9E766A24-70A5-449A-B638-7B6A7B74131B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>StIvesLib</RootNamespace>
+    <AssemblyName>StIvesLib</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Actions\ActionBase.cs" />
+    <Compile Include="Actions\ShowInnPrices.cs" />
+    <Compile Include="Events\EventBase.cs" />
+    <Compile Include="Events\Highwayman.cs" />
+    <Compile Include="Events\UneventfulJourney.cs" />
+    <Compile Include="Exceptions\LastInnTileException.cs" />
+    <Compile Include="Exceptions\OutOfMoneyException.cs" />
+    <Compile Include="Exceptions\TooManyWivesException.cs" />
+    <Compile Include="Game.cs" />
+    <Compile Include="GameFactory.cs" />
+    <Compile Include="Games\GameEvents.cs" />
+    <Compile Include="Games\GameLocations.cs" />
+    <Compile Include="Games\GameSegments.cs" />
+    <Compile Include="Inns\Auction.cs" />
+    <Compile Include="Inns\BedNumberType.cs" />
+    <Compile Include="Inns\Bid.cs" />
+    <Compile Include="Inns\BidRequest.cs" />
+    <Compile Include="Inns\Bids\Beds.cs" />
+    <Compile Include="Inns\Bids\Raise.cs" />
+    <Compile Include="Inns\InnFactory.cs" />
+    <Compile Include="Inns\InnOption.cs" />
+    <Compile Include="Inns\Round.cs" />
+    <Compile Include="Interfaces\IGameInternal.cs" />
+    <Compile Include="Interfaces\IMeepleInternal.cs" />
+    <Compile Include="Interfaces\IPhase.cs" />
+    <Compile Include="Locations\Location.cs" />
+    <Compile Include="Locations\Segment.cs" />
+    <Compile Include="Locations\StIves.cs" />
+    <Compile Include="Meeples\Husband.cs" />
+    <Compile Include="Meeple.cs" />
+    <Compile Include="Meeples\Wives\Barmaid.cs" />
+    <Compile Include="Meeples\Wives\Breeder.cs" />
+    <Compile Include="Meeples\Wives\Catcher.cs" />
+    <Compile Include="Meeples\Wives\Driver.cs" />
+    <Compile Include="Meeples\Wives\Farmer.cs" />
+    <Compile Include="Meeples\Wives\Matchmaker.cs" />
+    <Compile Include="Meeples\Wives\Pioneer.cs" />
+    <Compile Include="Meeples\Wife.cs" />
+    <Compile Include="Meeples\Wives\Seamstress.cs" />
+    <Compile Include="Meeples\Wives\Shooter.cs" />
+    <Compile Include="Meeples\Wives\Witch.cs" />
+    <Compile Include="Phase.cs" />
+    <Compile Include="Phases\Day.cs" />
+    <Compile Include="Phases\Evening.cs" />
+    <Compile Include="Phases\Morning.cs" />
+    <Compile Include="Phases\Night.cs" />
+    <Compile Include="Phases\NotStarted.cs" />
+    <Compile Include="Player.cs" />
+    <Compile Include="Locations\PlayerLocation.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="WorkAction.cs" />
+    <Compile Include="WorkActions\Catch.cs" />
+    <Compile Include="WorkActions\Church.cs" />
+    <Compile Include="WorkActions\Cromwell.cs" />
+    <Compile Include="WorkActions\Farm.cs" />
+    <Compile Include="WorkActions\Feed.cs" />
+    <Compile Include="WorkActions\Sew.cs" />
+    <Compile Include="WorkActions\ShowInnPrices.cs" />
+    <Compile Include="WorkActions\Travel.cs" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="..\StIves.Interfaces\StIves.Interfaces.csproj">
+      <Project>{6bc692af-bbbd-4380-8f13-31e547b7d65c}</Project>
+      <Name>StIves.Interfaces</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Utils\Utils.csproj">
+      <Project>{99458b7c-bf06-4ba5-b6f5-b76da2cd48b1}</Project>
+      <Name>Utils</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

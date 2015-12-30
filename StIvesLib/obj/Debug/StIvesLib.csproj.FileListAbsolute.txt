@@ -1,0 +1,18 @@
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesLib\obj\Debug\StIvesLib.csprojResolveAssemblyReference.cache
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesLib\bin\Debug\StIvesLib.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesLib\bin\Debug\StIvesLib.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesLib\obj\Debug\StIvesLib.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesLib\obj\Debug\StIvesLib.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesLib\bin\Debug\Utils.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesLib\bin\Debug\Utils.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesLib\bin\Debug\StIves.Interfaces.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesLib\bin\Debug\StIves.Interfaces.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesLib\bin\Debug\StIvesLib.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIvesLib\bin\Debug\StIvesLib.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesLib\bin\Debug\StIves.Interfaces.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIvesLib\bin\Debug\Utils.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIvesLib\bin\Debug\StIves.Interfaces.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesLib\bin\Debug\Utils.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesLib\obj\Debug\StIvesLib.csprojResolveAssemblyReference.cache
+C:\Users\rmorrish\Source\Repos\StIves\StIvesLib\obj\Debug\StIvesLib.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIvesLib\obj\Debug\StIvesLib.pdb

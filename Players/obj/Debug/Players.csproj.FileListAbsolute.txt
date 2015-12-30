@@ -1,0 +1,22 @@
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\bin\Debug\Players.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\bin\Debug\Players.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\bin\Debug\StIvesLib.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\bin\Debug\StIvesLib.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\obj\Debug\Players.csprojResolveAssemblyReference.cache
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\obj\Debug\Players.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\obj\Debug\Players.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\bin\Debug\Utils.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\bin\Debug\Utils.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\bin\Debug\StIves.Interfaces.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Players\bin\Debug\StIves.Interfaces.pdb
+C:\Users\rmorrish\Source\Repos\StIves\Players\bin\Debug\Players.dll
+C:\Users\rmorrish\Source\Repos\StIves\Players\bin\Debug\Players.pdb
+C:\Users\rmorrish\Source\Repos\StIves\Players\bin\Debug\StIves.Interfaces.dll
+C:\Users\rmorrish\Source\Repos\StIves\Players\bin\Debug\StIvesLib.dll
+C:\Users\rmorrish\Source\Repos\StIves\Players\bin\Debug\Utils.dll
+C:\Users\rmorrish\Source\Repos\StIves\Players\bin\Debug\StIves.Interfaces.pdb
+C:\Users\rmorrish\Source\Repos\StIves\Players\bin\Debug\StIvesLib.pdb
+C:\Users\rmorrish\Source\Repos\StIves\Players\bin\Debug\Utils.pdb
+C:\Users\rmorrish\Source\Repos\StIves\Players\obj\Debug\Players.csprojResolveAssemblyReference.cache
+C:\Users\rmorrish\Source\Repos\StIves\Players\obj\Debug\Players.dll
+C:\Users\rmorrish\Source\Repos\StIves\Players\obj\Debug\Players.pdb

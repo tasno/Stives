@@ -1,0 +1,26 @@
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\StIvesSim.exe
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\StIvesSim.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\StIvesLib.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\StIvesLib.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\obj\Debug\StIvesSim.csprojResolveAssemblyReference.cache
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\obj\Debug\StIvesSim.exe
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\obj\Debug\StIvesSim.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\Players.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\Players.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\Utils.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\Utils.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\StIves.Interfaces.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\StIvesSim\bin\Debug\StIves.Interfaces.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\obj\Debug\StIvesSim.exe
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\obj\Debug\StIvesSim.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\StIvesSim.exe
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\StIvesSim.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\Players.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\StIves.Interfaces.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\StIvesLib.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\Utils.dll
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\Players.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\StIves.Interfaces.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\StIvesLib.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\bin\Debug\Utils.pdb
+C:\Users\rmorrish\Source\Repos\StIves\StIvesSim\obj\Debug\StIvesSim.csprojResolveAssemblyReference.cache

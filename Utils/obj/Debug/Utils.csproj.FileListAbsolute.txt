@@ -1,0 +1,10 @@
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Utils\bin\Debug\Utils.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Utils\bin\Debug\Utils.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Utils\obj\Debug\Utils.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\Utils\obj\Debug\Utils.pdb
+C:\Users\rmorrish\Source\Repos\StIves\Utils\bin\Debug\Utils.dll
+C:\Users\rmorrish\Source\Repos\StIves\Utils\bin\Debug\Utils.pdb
+C:\Users\rmorrish\Source\Repos\StIves\Utils\obj\Debug\Utils.csprojResolveAssemblyReference.cache
+C:\Users\rmorrish\Source\Repos\StIves\Utils\obj\Debug\Utils.dll
+C:\Users\rmorrish\Source\Repos\StIves\Utils\obj\Debug\Utils.pdb

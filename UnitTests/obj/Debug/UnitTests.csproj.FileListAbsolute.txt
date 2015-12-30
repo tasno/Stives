@@ -1,0 +1,27 @@
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\UnitTests.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\UnitTests.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\NMock2.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\nunit.framework.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\StIves.Interfaces.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\StIvesLib.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\Utils.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\StIves.Interfaces.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\StIvesLib.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\nunit.framework.xml
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\Utils.pdb
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\obj\Debug\UnitTests.dll
+E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\obj\Debug\UnitTests.pdb
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\UnitTests.dll
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\UnitTests.pdb
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\nunit.framework.dll
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\StIves.Interfaces.dll
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\StIvesLib.dll
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\Utils.dll
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\StIves.Interfaces.pdb
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\StIvesLib.pdb
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\Utils.pdb
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\bin\Debug\nunit.framework.xml
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\obj\Debug\UnitTests.dll
+C:\Users\rmorrish\Source\Repos\StIves\UnitTests\obj\Debug\UnitTests.pdb

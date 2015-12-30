@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\UnitTests.dll" total="8" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-12-11" time="17:55:47">
+  <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Windows\system32" machine-name="BUN139280" user="RMorrish" user-domain="INTERNAL" />
+  <culture-info current-culture="en-AU" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="E:\Users\rmorrish\Documents\Visual Studio 2012\Projects\StIves\UnitTests\bin\Debug\UnitTests.dll" executed="True" result="Success" success="True" time="1.763" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="UnitTests" executed="True" result="Success" success="True" time="1.763" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestAuction" executed="True" result="Success" success="True" time="1.763" asserts="0">
+            <results>
+              <test-case name="UnitTests.TestAuction.OnePlayerDontTakeAll" executed="True" result="Success" success="True" time="0.234" asserts="17" />
+              <test-case name="UnitTests.TestAuction.OnePlayerEnoughRoomsAndMoney" executed="True" result="Success" success="True" time="0.218" asserts="35" />
+              <test-case name="UnitTests.TestAuction.OnePlayerNotEnoughMoney" executed="True" result="Success" success="True" time="0.218" asserts="17" />
+              <test-case name="UnitTests.TestAuction.OnePlayerNotEnoughRooms" executed="True" result="Success" success="True" time="0.218" asserts="26" />
+              <test-case name="UnitTests.TestAuction.OnePlayerNoWifeEnoughRoomsAndMoney" executed="True" result="Success" success="True" time="0.218" asserts="14" />
+              <test-case name="UnitTests.TestAuction.TwoPlayersNoRaise" executed="True" result="Success" success="True" time="0.218" asserts="35" />
+              <test-case name="UnitTests.TestAuction.TwoPlayersSecondCanRaiseButDoesnt" executed="True" result="Success" success="True" time="0.218" asserts="35" />
+              <test-case name="UnitTests.TestAuction.TwoPlayersSecondRaises" executed="True" result="Success" success="True" time="0.218" asserts="54" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
